@@ -11,5 +11,6 @@ categories:
   - features
 ---
 
+{{< mydiv4o text="youtube_個人意見獨立思考" link="/byauthor/278539d3e272f77cdd6676aa4bfa4f2d/index.html">}}
 {{< mydiv4o text="youtube_江峰时刻" link="/byauthor/403522ffe91412865e1d8c19493426bc/index.html">}}
 
