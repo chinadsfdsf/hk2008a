@@ -18,6 +18,7 @@ categories:
 {{< mydiv4o text="youtube_ng_sam" link="/byauthor/8b24f016734104b815ccd1084f1e2c41/index.html">}}
 {{< mydiv4o text="youtube_個人意見獨立思考" link="/byauthor/278539d3e272f77cdd6676aa4bfa4f2d/index.html">}}
 {{< mydiv4o text="youtube_城寨_singjai" link="/byauthor/137c0c40b21b8b71f099b0928484f5e7/index.html">}}
+{{< mydiv4o text="youtube_希望之聲時事熱點" link="/byauthor/549556cdabbbf7d7df313e64149529b5/index.html">}}
 {{< mydiv4o text="youtube_江峰时刻" link="/byauthor/403522ffe91412865e1d8c19493426bc/index.html">}}
 {{< mydiv4o text="youtube_珍言真語_//_大紀元" link="/byauthor/23ac1eed043b009eac214f05797e5869/index.html">}}
 {{< mydiv4o text="youtube_香江望神州" link="/byauthor/235427816b04ea42b89e7b517d34ab41/index.html">}}
