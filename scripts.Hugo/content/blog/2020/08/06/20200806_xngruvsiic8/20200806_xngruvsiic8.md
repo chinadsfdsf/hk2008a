@@ -23,6 +23,9 @@ categories:
 <br>
 
 
+{{< my2mp4withjpgdownload mp4="20200806_XNGRUVSiIc8.mp4"
+>}}
+
 {{< my2mp4withjpgdownload mp4="20200806_xngruvsiic8.webm"
 >}}
 
